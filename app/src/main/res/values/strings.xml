@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="greeting1">Hello %1$s</string>
+    <string name="greeting2">Don\'t forget to record your finance</string>
+    <string name="remaining_money">Remaining money</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="statistic">Statistic</string>
+    <string name="transaction_year">Transaction in %1$s</string>
+    <string name="see_detail_stats">See detail</string>
+</resources>
