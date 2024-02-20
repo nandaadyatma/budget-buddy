@@ -1,4 +1,4 @@
-package com.example.budgetbuddy.ui
+package com.example.budgetbuddy.presentation.ui
 
 data class DashboardData(
     var remainingMoney: Int,

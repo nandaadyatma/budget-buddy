@@ -1,4 +1,4 @@
-package com.example.budgetbuddy.ui
+package com.example.budgetbuddy.presentation.ui
 
 import android.graphics.drawable.GradientDrawable
 import android.hardware.lights.Light
@@ -47,10 +47,10 @@ import co.yml.charts.ui.linechart.model.SelectionHighlightPoint
 import co.yml.charts.ui.linechart.model.SelectionHighlightPopUp
 import co.yml.charts.ui.linechart.model.ShadowUnderLine
 import com.example.budgetbuddy.R
-import com.example.budgetbuddy.ui.theme.GreenIncome
-import com.example.budgetbuddy.ui.theme.GreyLine
-import com.example.budgetbuddy.ui.theme.LightBackground
-import com.example.budgetbuddy.ui.theme.RedExpense
+import com.example.budgetbuddy.presentation.ui.theme.GreenIncome
+import com.example.budgetbuddy.presentation.ui.theme.GreyLine
+import com.example.budgetbuddy.presentation.ui.theme.LightBackground
+import com.example.budgetbuddy.presentation.ui.theme.RedExpense
 
 @Composable
 fun HomeScreen() {
